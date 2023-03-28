@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="211ff00f-6c81-40e6-b61d-1bdf843330a8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Exo5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo7/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -60,6 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680009514654</updated>
       <workItem from="1680009515743" duration="1102000" />
+      <workItem from="1680012360393" duration="293000" />
     </task>
     <servers />
   </component>
