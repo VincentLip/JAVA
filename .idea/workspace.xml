@@ -4,11 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="" />
+    <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Exo3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exo3/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2NdvLykjDVFkXUP1rkts2N8nDYV" />
   <component name="ProjectViewState">
@@ -24,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680006721906</updated>
       <workItem from="1680006723115" duration="309000" />
+      <workItem from="1680007862839" duration="769000" />
     </task>
     <servers />
   </component>
