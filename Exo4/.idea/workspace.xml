@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="253d1847-ae9f-4f30-9279-b02996493815" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exo1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo1/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exo3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exo3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo3/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="211ff00f-6c81-40e6-b61d-1bdf843330a8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +26,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -35,7 +38,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Ndx01nKcorUzyBKs2zzaBMux5l" />
+  <component name="ProjectId" id="2Ne10vKu9S3AO0X6qmNzGBfZAhd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -45,24 +48,19 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="253d1847-ae9f-4f30-9279-b02996493815" name="Changes" comment="" />
-      <created>1680007534906</created>
+      <changelist id="211ff00f-6c81-40e6-b61d-1bdf843330a8" name="Changes" comment="" />
+      <created>1680009514654</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680007534906</updated>
-      <workItem from="1680007535985" duration="1100000" />
+      <updated>1680009514654</updated>
+      <workItem from="1680009515743" duration="258000" />
     </task>
     <servers />
   </component>
