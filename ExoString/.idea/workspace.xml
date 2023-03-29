@@ -4,10 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="670c6c7e-fbac-4887-bc86-4c530cc75ca3" name="Changes" comment="">
+    <list default="true" id="fcc1e9e5-2230-4f0e-9d9d-3db456855bbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/exo6/Exo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/exo6/Exo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo6/target/classes/org/example/exo6/Exo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo6/target/classes/org/example/exo6/Exo6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExoSommeEntier/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoSommeEntier/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -36,7 +45,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Ne3s3IK5wPdt8uzweslL4mqVjn" />
+  <component name="ProjectId" id="2Ngq0RZx2aj9V8vXHNOFzhxGARi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,27 +54,24 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="670c6c7e-fbac-4887-bc86-4c530cc75ca3" name="Changes" comment="" />
-      <created>1680010924730</created>
+      <changelist id="fcc1e9e5-2230-4f0e-9d9d-3db456855bbd" name="Changes" comment="" />
+      <created>1680095851075</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680010924730</updated>
-      <workItem from="1680010925775" duration="1371000" />
-      <workItem from="1680017183526" duration="112000" />
-      <workItem from="1680075637608" duration="124000" />
-      <workItem from="1680075825407" duration="2516000" />
+      <updated>1680095851075</updated>
+      <workItem from="1680095852175" duration="1390000" />
     </task>
     <servers />
   </component>
