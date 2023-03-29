@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.string.CountOccurence;
 import org.example.string.CountWord;
 
 /**
@@ -10,7 +11,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        CountWord.countWord();
+        //CountWord.countWord();
+        CountOccurence.countOccurence();
 
     }
 }
