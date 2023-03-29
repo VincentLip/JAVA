@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="413f0798-8e17-475c-ae68-f4cf72ad329d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ExoSommeEntier/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExoSommeEntier/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExoSommeEntier/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExoSommeEntier/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ExoSommeEntier/src/test/java/org/example/AppTest.java" afterDir="false" />
+    <list default="true" id="840114d8-0462-4a59-8566-9cf78abb9dbd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo11/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +43,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Ng6bz1atCfTD9SeDk1b7vHQyjp" />
+  <component name="ProjectId" id="2Ng8pdrETkWOJ7kAdsS4wKbcSxM" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,12 +64,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="413f0798-8e17-475c-ae68-f4cf72ad329d" name="Changes" comment="" />
-      <created>1680073454633</created>
+      <changelist id="840114d8-0462-4a59-8566-9cf78abb9dbd" name="Changes" comment="" />
+      <created>1680074549255</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680073454633</updated>
-      <workItem from="1680073455695" duration="1042000" />
+      <updated>1680074549255</updated>
+      <workItem from="1680074550335" duration="377000" />
     </task>
     <servers />
   </component>
