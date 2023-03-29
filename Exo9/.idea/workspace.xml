@@ -5,16 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8023d79-65bc-42ad-8fce-05d0b83390c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Exo10/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo10/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680072195520</updated>
-      <workItem from="1680072196649" duration="1059000" />
+      <workItem from="1680072196649" duration="1217000" />
     </task>
     <servers />
   </component>

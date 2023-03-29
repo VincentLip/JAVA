@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f077cc4-a7fc-4cc3-841c-51fe2d52e942" name="Changes" comment="" />
+    <list default="true" id="413f0798-8e17-475c-ae68-f4cf72ad329d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo10/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exo9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo9/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +39,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Ng5XDx3tegRDsYv8YojExAnwYI" />
+  <component name="ProjectId" id="2Ng6bz1atCfTD9SeDk1b7vHQyjp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,7 +48,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -51,12 +59,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f077cc4-a7fc-4cc3-841c-51fe2d52e942" name="Changes" comment="" />
-      <created>1680072922370</created>
+      <changelist id="413f0798-8e17-475c-ae68-f4cf72ad329d" name="Changes" comment="" />
+      <created>1680073454633</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680072922370</updated>
-      <workItem from="1680072923443" duration="488000" />
+      <updated>1680073454633</updated>
+      <workItem from="1680073455695" duration="331000" />
     </task>
     <servers />
   </component>
