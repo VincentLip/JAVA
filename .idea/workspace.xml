@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/ExoString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoString/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExoString/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExoString/src/main/java/org/example/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExoString/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExoString/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExoString/target/classes/org/example/string/Anagramm.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExoString/target/classes/org/example/string/Anagramm.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +53,7 @@
       <workItem from="1680015606933" duration="84000" />
       <workItem from="1680016120263" duration="851000" />
       <workItem from="1680071846545" duration="6667000" />
-      <workItem from="1680097298406" duration="1711000" />
+      <workItem from="1680097298406" duration="2850000" />
     </task>
     <servers />
   </component>
