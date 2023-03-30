@@ -1,6 +1,7 @@
 package org.example;
 
 import org.example.array.exo1;
+import org.example.array.exo2;
 import org.example.exo1.Note;
 import org.example.exo3.Decalage;
 import org.example.exo4.Array;
@@ -20,7 +21,8 @@ public class App
         //Decalage.decalage();
         //Array.generateRandomArray(5);
         //Array.extendArray(tab);
-        exo1.tabOccurence();
+        //exo1.tabOccurence();
+        exo2.sortTab();
 
     }
 }
