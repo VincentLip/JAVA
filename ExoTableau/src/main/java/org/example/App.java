@@ -6,6 +6,8 @@ import org.example.array.exo3;
 import org.example.exo1.Note;
 import org.example.exo3.Decalage;
 import org.example.exo4.Array;
+import org.example.matrice.Matrice1;
+import org.example.matrice.Matrice2;
 import org.example.tri.TriBulle;
 import org.example.tri.TriSelection;
 
@@ -28,7 +30,9 @@ public class App
         //exo2.sortTab();
         //exo3.inverseTab();
         //TriBulle.triBulle();
-        TriSelection.triSelection();
+        //TriSelection.triSelection();
+        //Matrice1.matrice1();
+        Matrice2.matrice2();
 
     }
 }
