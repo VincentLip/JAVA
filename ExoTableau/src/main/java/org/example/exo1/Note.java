@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Note {
 
-    static int tab[]= new int[5];
+    static int tab[]= new int[20];
     static int average=0;
     static int note=0;
     public static void getNote(){
