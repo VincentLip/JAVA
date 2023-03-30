@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExoTableau/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoTableau/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExoTableau/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExoTableau/src/main/java/org/example/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ExoTableau/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/ExoTableau/target/classes/org/example/App.class" afterDir="false" />
@@ -56,7 +57,7 @@
       <workItem from="1680071846545" duration="6667000" />
       <workItem from="1680097298406" duration="2850000" />
       <workItem from="1680103052904" duration="46000" />
-      <workItem from="1680163847713" duration="6401000" />
+      <workItem from="1680163847713" duration="7623000" />
     </task>
     <servers />
   </component>

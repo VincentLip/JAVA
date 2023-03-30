@@ -6,6 +6,7 @@ import org.example.array.exo3;
 import org.example.exo1.Note;
 import org.example.exo3.Decalage;
 import org.example.exo4.Array;
+import org.example.tri.TriBulle;
 
 /**
  * Hello world!
@@ -24,7 +25,8 @@ public class App
         //Array.extendArray(tab);
         //exo1.tabOccurence();
         //exo2.sortTab();
-        exo3.inverseTab();
+        //exo3.inverseTab();
+        TriBulle.triBulle();
 
     }
 }
