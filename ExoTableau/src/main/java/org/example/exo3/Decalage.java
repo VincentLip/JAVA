@@ -1,5 +1,9 @@
 package org.example.exo3;
 
+import org.example.exo4.Array;
+
+import java.util.Arrays;
+
 public class Decalage {
 
 
@@ -15,14 +19,9 @@ public class Decalage {
             tab[i] = tab[i+1];
         }
         tab[tab.length-1] = tmp;
-        System.out.println(tab[0]);
-        System.out.println(tab[1]);
-        System.out.println(tab[2]);
-        System.out.println(tab[3]);
-        System.out.println(tab[4]);
-        System.out.println(tab[5]);
-        System.out.println(tab[6]);
-        System.out.println(tab[7]);
+
+
+        System.out.println(Arrays.toString(tab));
     }
 
 }
