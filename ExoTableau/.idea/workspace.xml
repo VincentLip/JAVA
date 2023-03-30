@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fcc1e9e5-2230-4f0e-9d9d-3db456855bbd" name="Changes" comment="" />
+    <list default="true" id="4660c5d9-cca6-4c24-900a-3fb3e1db5202" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExoString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoString/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExoStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoStructure/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,7 +43,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectId" id="2Ngq0RZx2aj9V8vXHNOFzhxGARi" />
+  <component name="ProjectId" id="2NjB9YVQCV9V9UT2K3WnOjGz9iF" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,24 +58,18 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fcc1e9e5-2230-4f0e-9d9d-3db456855bbd" name="Changes" comment="" />
-      <created>1680095851075</created>
+      <changelist id="4660c5d9-cca6-4c24-900a-3fb3e1db5202" name="Changes" comment="" />
+      <created>1680167461656</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1680095851075</updated>
-      <workItem from="1680095852175" duration="5644000" />
-      <workItem from="1680101523972" duration="609000" />
-      <workItem from="1680102142634" duration="401000" />
-      <workItem from="1680102551203" duration="139000" />
-      <workItem from="1680102709447" duration="397000" />
-      <workItem from="1680158627103" duration="5651000" />
+      <updated>1680167461656</updated>
+      <workItem from="1680167462720" duration="2003000" />
     </task>
     <servers />
   </component>
