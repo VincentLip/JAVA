@@ -6,10 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="840114d8-0462-4a59-8566-9cf78abb9dbd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exo6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo6/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Exo6/target/classes/org/example/exo6/Exo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Exo6/target/classes/org/example/exo6/Exo6.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoMultiplication/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExoString/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExoString/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,8 @@
       <updated>1680074549255</updated>
       <workItem from="1680074550335" duration="768000" />
       <workItem from="1680075332845" duration="903000" />
+      <workItem from="1680159855843" duration="451000" />
+      <workItem from="1680160487027" duration="509000" />
     </task>
     <servers />
   </component>
