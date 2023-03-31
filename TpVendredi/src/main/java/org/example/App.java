@@ -1,6 +1,12 @@
 package org.example;
 
 import org.example.structure.*;
+import org.example.tableaux.*;
+import org.example.tableaux.Exo1;
+import org.example.tableaux.Exo2;
+import org.example.tableaux.Exo3;
+import org.example.tableaux.Exo4;
+import org.example.tableaux.Exo5;
 
 /**
  * Hello world!
@@ -10,10 +16,23 @@ public class App
 {
     public static void main( String[] args )
     {
+
+        // Exercice Structure
+
         //Exo1.getEvenOdd();
         //Exo2.getNumberChar();
         //Exo3.convertCelsiusFahrenheit();
         //Exo4.checkPassword();
-        Exo5.calculAverage();
+        //xo5.calculAverage();
+
+        //Exercice Tableau
+
+        //Exo1.createTab();
+        //Exo2.createTab();
+        //Exo3.createTab();
+        //Exo4.createTab();
+        //Exo5.createTab();
+        //Exo6.createTab();
+        Exo7.createTab();
     }
 }
