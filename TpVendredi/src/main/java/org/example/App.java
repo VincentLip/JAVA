@@ -1,10 +1,10 @@
 package org.example;
 
+import org.example.matrice.Exo1;
+import org.example.matrice.Exo2;
+import org.example.matrice.Exo3;
 import org.example.structure.*;
 import org.example.tableaux.*;
-import org.example.tableaux.Exo1;
-import org.example.tableaux.Exo2;
-import org.example.tableaux.Exo3;
 import org.example.tableaux.Exo4;
 import org.example.tableaux.Exo5;
 
@@ -33,6 +33,12 @@ public class App
         //Exo4.createTab();
         //Exo5.createTab();
         //Exo6.createTab();
-        Exo7.createTab();
+        //Exo7.createTab();
+
+        //Exercice Matrice
+
+        //Exo1.sumDiagMatrice();
+        //Exo2.testLine();
+        Exo3.main();
     }
 }

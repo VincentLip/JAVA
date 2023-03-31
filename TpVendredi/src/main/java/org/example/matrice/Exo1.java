@@ -4,7 +4,12 @@ public class Exo1 {
 
     public static void sumDiagMatrice(){
 
-        int[][] mat = new int[5][5];
+        int[][] mat = {
+                {45,23,34,56,30},
+                {67,75,21,52,59},
+                {89,34,19,19,15},
+                {1,78,90,48,42}
+        };
         int sum =0;
 
         for (int i = 0; i < mat.length; i++) {
@@ -14,5 +19,6 @@ public class Exo1 {
                 }
             }
         }
+        System.out.println("La somme de la diagonale est de " + sum);
     }
 }
