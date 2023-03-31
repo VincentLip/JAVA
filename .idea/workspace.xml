@@ -5,18 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpVendredi/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExoStructure/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoStructure/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExoStructure/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoStructure/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExoTableau/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExoTableau/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpVendredi/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpVendredi/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpVendredi/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpVendredi/target/classes/org/example/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +58,7 @@
       <workItem from="1680103052904" duration="46000" />
       <workItem from="1680163847713" duration="8129000" />
       <workItem from="1680187638822" duration="1400000" />
-      <workItem from="1680246622365" duration="308000" />
+      <workItem from="1680246622365" duration="1218000" />
     </task>
     <servers />
   </component>
