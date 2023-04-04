@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpClassSalarie/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpHouse/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +68,7 @@
       <workItem from="1680246622365" duration="7786000" />
       <workItem from="1680590752180" duration="8000" />
       <workItem from="1680592050620" duration="654000" />
-      <workItem from="1680596196457" duration="2145000" />
+      <workItem from="1680596196457" duration="2923000" />
     </task>
     <servers />
   </component>
