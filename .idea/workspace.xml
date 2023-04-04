@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/src/main/java/org/example/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TpCompteHeritage/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClasseChaise/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpClasseChaise/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClasseChaise/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpClasseChaise/target/classes/org/example/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +66,7 @@
       <workItem from="1680187638822" duration="1400000" />
       <workItem from="1680246622365" duration="7786000" />
       <workItem from="1680590752180" duration="8000" />
+      <workItem from="1680592050620" duration="654000" />
     </task>
     <servers />
   </component>
