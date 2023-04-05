@@ -6,7 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/salarie/Commerciale.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/salarie/Commerciale.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/salarie/Salarie.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpClassSalarie/src/main/java/org/example/salarie/Salarie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClassSalarie/target/classes/org/example/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpClassSalarie/target/classes/org/example/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpClassSalarie/target/classes/org/example/salarie/Salarie.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpClassSalarie/target/classes/org/example/salarie/Salarie.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

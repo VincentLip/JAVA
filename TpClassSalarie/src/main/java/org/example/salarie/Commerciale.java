@@ -4,6 +4,7 @@ public class Commerciale extends Salarie{
 
     protected int chiffreAffaire;
     protected int commision;
+    protected int distance =0;
 
     public Commerciale(int matricule, String categorie, String service, String nom, int salaire) {
         super(matricule, categorie, service, nom, salaire);
@@ -33,6 +34,11 @@ public class Commerciale extends Salarie{
 
     @Override
     public int CalculerSalaire() {
-        return getSalaire()+commision;
+        return getSalaire()+chiffreAffaire*(commision/100);
+    }
+
+    public void seDeplacer(){
+
+        distance += 1000;
     }
 }
