@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60b6840d-0ccb-4b97-8737-f208a07ef75a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hotel/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hotel/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hotel/Ihm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hotel/Ihm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hotel/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hotel/Reservation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/hotel/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/hotel/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hotel/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hotel/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hotel/Ihm.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hotel/Ihm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hotel/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hotel/Reservation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/hotel/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/hotel/Room.class" afterDir="false" />
-    </list>
+    <list default="true" id="60b6840d-0ccb-4b97-8737-f208a07ef75a" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680785241743</updated>
       <workItem from="1680785242804" duration="8801000" />
-      <workItem from="1680851740254" duration="5752000" />
+      <workItem from="1680851740254" duration="5863000" />
     </task>
     <servers />
   </component>
