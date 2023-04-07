@@ -6,7 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciceEnum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciceEnum/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Ihm.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Ihm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Reservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Reservation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/src/main/java/org/example/hotel/Room.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Ihm.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Ihm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Room.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpHotel/target/classes/org/example/hotel/Room.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

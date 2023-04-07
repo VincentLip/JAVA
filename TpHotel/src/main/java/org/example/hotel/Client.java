@@ -22,6 +22,13 @@ public class Client {
         this.phone = phone;
     }
 
+    public Client(int id, String lastName, String firstName, int phone) {
+        this.id = id;
+        this.lastName = lastName;
+        this.firstName = firstName;
+        this.phone = phone;
+    }
+
     @Override
     public String toString() {
         return "Client n°" + id +

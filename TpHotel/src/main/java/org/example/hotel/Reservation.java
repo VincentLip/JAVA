@@ -3,12 +3,18 @@ package org.example.hotel;
 public class Reservation {
 
     private int number;
+
+    private static int counter =0;
+
+    {
+        ++counter;
+    }
     private boolean statusReservation;
     private Client client;
     private Room room;
 
-    public Reservation(int number, boolean statusReservation, Client client, Room room) {
-        this.number = number;
+    public Reservation(boolean statusReservation, Client client, Room room) {
+        this.number = counter;
         this.statusReservation = statusReservation;
         this.client = client;
         this.room = room;
@@ -16,12 +22,10 @@ public class Reservation {
 
     @Override
     public String toString() {
-        return "Reservation{" +
-                "number=" + number +
+        return "Reservation n°" + number +
                 ", statusReservation=" + statusReservation +
                 ", client=" + client +
-                ", room=" + room +
-                '}';
+                ", room=" + room;
     }
 
     public int getNumber() {

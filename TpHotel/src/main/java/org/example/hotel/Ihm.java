@@ -12,13 +12,12 @@ public class Ihm {
 
    static List<Client> clientList = new ArrayList<>();
 
-
    static List<Reservation> reservationList = new ArrayList<>();
 
 
    public static void start(){
-       for (int i = 1; i < 20; i++) {
-           Room room = new Room(i,false,50,2);
+       for (int i = 1; i < 6; i++) {
+           Room room = new Room(i,true,50,4);
            roomList.add(room);
        }
        Scanner sc = new Scanner(System.in);
@@ -57,6 +56,15 @@ public class Ihm {
                 displayClient();
                 menu();
             case "3":
+                displayReservationClient();
+                menu();
+            case "4":
+                addReservation();
+                menu();
+            case "5":
+                cancelReservation();
+                menu();
+            case "6":
                 displayReservation();
                 menu();
             case "0":
@@ -96,12 +104,8 @@ public class Ihm {
 
     }
 
-    public static void displayReservation(){
+    public static void displayReservationClient(){
         int phone;
-        Reservation reservation = new Reservation(1,true, new Client("j","j",1)
-                ,new Room(1,false,40,4));
-
-        reservationList.add(reservation);
         System.out.println("Entrez le numero de téléphone du client");
         Scanner sc = new Scanner(System.in);
         phone = sc.nextInt();
@@ -113,12 +117,79 @@ public class Ihm {
                     System.out.println(reservation1);
 
                 }
-
             }
 
         }
 
+    }
+
+    public static void addReservation(){
+
+       int telephone;
+       int nbrOccupant;
+       int nbRoom;
+
+
+        System.out.println("***** Ajout d'une reservation *****");
+        System.out.println("Saisir le numéro du client");
+        Scanner sc  = new Scanner(System.in);
+        telephone = sc.nextInt();
+        System.out.println("Saisir le nombre d'occupant");
+        Scanner sc1 = new Scanner(System.in);
+        nbrOccupant = sc1.nextInt();
+
+        for (Room room : roomList) {
+            if(room.getCapacity() > nbrOccupant && room.isStatusRoom() == true){
+                System.out.println("Chambre n°"+room.getNumber()+" disponible, capacité"+ room.getCapacity());
+                System.out.println();
+            }
+        }
+        System.out.println("Saisir le n° de chambre pour la reservation");
+        Scanner sc2 = new Scanner(System.in);
+        nbRoom = sc2.nextInt();
+
+        for (Room room1 : roomList) {
+            for (Client client:clientList) {
+                if(telephone == client.getPhone()){
+                    Client tmpClient = new Client(client.getId(), client.getLastName(),client.getFirstName(),client.getPhone());
+                    if(room1.getNumber() == nbRoom){
+                        room1.setStatusRoom(!room1.isStatusRoom());
+                        Reservation reservation = new Reservation(true,tmpClient,room1);
+                        reservationList.add(reservation);
+                        System.out.println(reservation);
+                    }
+                }
+            }
+        }
 
     }
 
+    public static void displayReservation(){
+
+        for (Reservation reservation:reservationList) {
+            System.out.println(reservation);
+
+        }
+    }
+
+    public  static void cancelReservation(){
+
+       int nbReservation;
+        System.out.println("***** Annulation reservation *****");
+        System.out.println("Saisir le numero de reservation");
+        Scanner sc = new Scanner(System.in);
+        nbReservation = sc.nextInt();
+
+        for (Reservation reservation:reservationList) {
+            if(nbReservation == reservation.getNumber()){
+                reservation.setStatusReservation(!reservation.isStatusReservation());
+                Room tmpRoom = new Room();
+                tmpRoom = reservation.getRoom();
+                tmpRoom.setStatusRoom(!tmpRoom.isStatusRoom());
+                System.out.println(tmpRoom);
+                reservationList.remove(reservation);
+                System.out.println("Reservation annulée et chambre libérée" );
+            }
+        }
+    }
 }
