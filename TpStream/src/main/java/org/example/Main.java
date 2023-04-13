@@ -26,14 +26,14 @@ public class Main {
                 new Transaction(tristan,2012,900)
         );
 
-        System.out.println("***** 1 ******");
+        System.out.println("***** 1 *****");
 
         List<Transaction> transactionList = transactions.stream()
                 .filter(t -> t.getYear()==2011).collect(Collectors.toList());
         transactionList.forEach(System.out::println);
         System.out.println();
 
-        System.out.println("***** 2 ******");
+        System.out.println("***** 2 *****");
         List<String> city = new ArrayList<>();
         city = transactions.stream()
                 .map(t -> t.getTrader().getCity())
@@ -42,7 +42,7 @@ public class Main {
         System.out.println(city);
         System.out.println();
 
-        System.out.println("***** 3 ******");
+        System.out.println("***** 3 *****");
 
         List<String> traders = transactions.stream()
                 .map(t -> t.getTrader().getName())
@@ -52,12 +52,12 @@ public class Main {
         System.out.println(traders);
         System.out.println();
 
-        System.out.println("***** 4 ******");
+        System.out.println("***** 4 *****");
 
         System.out.println(transactions.stream().anyMatch(t -> t.getTrader().getCity() == "Milan"));
         System.out.println();
 
-        System.out.println("***** 5 ******");
+        System.out.println("***** 5 *****");
 
         Optional<Integer> optionalInteger = transactions.stream()
                 .map(t -> t.getValue())
@@ -66,7 +66,7 @@ public class Main {
         System.out.println(optionalInteger.get());
         System.out.println();
 
-        System.out.println("***** 6 ******");
+        System.out.println("***** 6 *****");
 
         List<Trader> traderList = transactions.stream()
                 .map(t -> t.getTrader())
@@ -77,7 +77,7 @@ public class Main {
         System.out.println(traderList);
         System.out.println();
 
-        System.out.println("***** 7 ******");
+        System.out.println("***** 7 *****");
 
         List<Integer> integerList = transactions.stream()
                 .filter(t -> t.getTrader().getCity() == "Cambridge")
@@ -87,7 +87,7 @@ public class Main {
         System.out.println(integerList);
         System.out.println();
 
-        System.out.println("***** 8 ******");
+        System.out.println("***** 8 *****");
 
         Optional<Integer> optionalInteger1 = transactions.stream()
                 .map(t -> t.getValue())

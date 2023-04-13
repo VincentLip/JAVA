@@ -5,26 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64b55f48-b760-48ad-bf89-b606ad05fb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpCollections/src/test/java/org/example/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/src/main/java/org/example/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TpStream/src/test/java/org/example/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpStream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TpStream/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpStream/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TpStream/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TpStream/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/TpStream/target/classes/org/example/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +66,7 @@
       <workItem from="1680705842444" duration="1433000" />
       <workItem from="1681216826166" duration="1824000" />
       <workItem from="1681282827086" duration="7000" />
-      <workItem from="1681367849090" duration="628000" />
+      <workItem from="1681367849090" duration="1249000" />
     </task>
     <servers />
   </component>
