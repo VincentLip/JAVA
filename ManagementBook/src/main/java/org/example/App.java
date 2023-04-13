@@ -1,6 +1,6 @@
 package org.example;
 
-import org.example.book.Demo;
+import org.example.book.TestBook;
 
 /**
  * Hello world!
@@ -11,6 +11,6 @@ public class App
     public static void main( String[] args )
     {
 
-        Demo.main();
+        TestBook.main();
     }
 }

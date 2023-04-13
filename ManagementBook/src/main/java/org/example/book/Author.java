@@ -1,10 +1,11 @@
 package org.example.book;
 
-public class Author {
+import java.util.Objects;
 
-    int id;
-    String firstName;
-    String lastName;
+public class Author {
+    private int id;
+    private String firstName;
+    private String lastName;
 
     public Author() {
     }
@@ -15,17 +16,24 @@ public class Author {
         this.lastName = lastName;
     }
 
-    public Author(int id, String firstName) {
-        this.id = id;
-        this.firstName = firstName;
-    }
+
 
     @Override
     public String toString() {
-        return "Author{" +
-                "id=" + id +
-                ", firstName='" + firstName + '\'' +
-                ", lastName='" + lastName + '\'' +
-                '}';
+        return "Author [id=" + id + ", firstName=" + firstName + ", lastName=" + lastName
+                + "]";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+        Author author = (Author) o;
+        return id == author.id && Objects.equals(firstName, author.firstName) && Objects.equals(lastName, author.lastName);
+    }
+
+    @Override
+    public int hashCode() {
+        return Objects.hash(id, firstName, lastName);
     }
 }
