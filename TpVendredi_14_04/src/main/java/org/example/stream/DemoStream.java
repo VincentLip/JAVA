@@ -65,7 +65,7 @@ public class DemoStream {
 
         System.out.println("***** 1 *****");
         List<Student> studentList1 = studentList.stream()
-                .filter(s -> s.getAge()>18)
+                .filter(s -> s.getAge()>20)
                 .collect(Collectors.toList());
 
         studentList1.forEach(System.out::println);
@@ -104,7 +104,7 @@ public class DemoStream {
         System.out.println("***** 6 *****");
 
         List<String> stringList = courseList.stream()
-                .filter(c -> c.getDuration()>10)
+                .filter(c -> c.getDuration()>11)
                 .map(n -> n.getName())
                 .collect(Collectors.toList());
 
@@ -134,6 +134,34 @@ public class DemoStream {
         System.out.println();
 
         System.out.println("***** 10 *****");
+
+        List<List<Course>> courseList2 = studentList.stream()
+                .filter(s -> s.getAge() >= 18 & s.getAge()<=20)
+                .map(c -> c.getCourses())
+                .collect(Collectors.toList());
+
+        courseList2.forEach(System.out::println);
+        System.out.println();
+
+        System.out.println("***** 11 *****");
+
+
+
+
+
+        System.out.println("***** 12 *****");
+
+        Long number = studentList.stream()
+                .filter(s->s.getAge()>=20)
+                .map(c->c.getCourses())
+                .count();
+
+        System.out.println(number);
+        System.out.println();
+
+        System.out.println("***** 13 *****");
+
+
 
 
     }
